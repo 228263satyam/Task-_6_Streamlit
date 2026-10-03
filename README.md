@@ -167,7 +167,7 @@ Contains project documentation and instructions.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/228263satyam/Task-_6_Streamlit.git>
 ```
 
 Navigate to the project directory:
